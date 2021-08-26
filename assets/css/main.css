@@ -2054,10 +2054,10 @@ input, select, textarea {
 			border: solid 2px #fff;
 			display: inline-block;
 			font-size: 2.35em;
-			height: calc(3em + 2px);
+			height: calc(6em + 4px);
 			line-height: 3em;
 			text-align: center;
-			width: calc(3em + 2px);
+			width: calc(6em + 4px);
 		}
 
 			.icon.major:before {
@@ -2072,7 +2072,7 @@ input, select, textarea {
 			@media screen and (max-width: 736px) {
 
 				.icon.major {
-					font-size: 100em;
+					font-size: 1000em;
 				}
 
 			}
